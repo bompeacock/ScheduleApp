@@ -10,7 +10,6 @@ Time spent: **three days**  spent in total
 
 The following **required** functionality is completed:
 
-* [x] User can **sort by view Level or Date** from the todo list to see easily
 * [x] User can **successfully add and remove items** from the todo list
 * [x] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list.
 * [x] User can **persist todo items** and retrieve them properly on app restart
@@ -26,7 +25,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [x] List anything else that you can get done to improve the app functionality!
+* [x] User can **sort by view Level or Date** from the todo list to see easily
 
 ## Video Walkthrough 
 
