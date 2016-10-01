@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" >
+    <item
+        android:icon="@drawable/view"
+        android:id="@+id/mnView"
+        android:title="View"
+        app:showAsAction="ifRoom" >
+        <menu >
+            <group android:id="@+id/group2" android:checkableBehavior="single">
+                <item android:id="@+id/subMnLevel" android:title="sort by Level" />
+                <item android:id="@+id/subMnDate" android:title="sort by Date" />
+            </group>
+        </menu>
+    </item>
+    <item
+        android:icon="@drawable/add"
+        android:id="@+id/mnAdd"
+        android:title="Add"
+        app:showAsAction="ifRoom" />
+</menu>
