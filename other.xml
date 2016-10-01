@@ -66,4 +66,16 @@
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
   </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://github.com/bompeacock/ScheduleApp" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://github.com/bompeacock/ScheduleApp" />
+      </list>
+    </option>
+  </component>
 </application>
